@@ -1,0 +1,10 @@
+23.11.2022 20:20:57 INFO [name: aiogram] [module: executor] [process: 8116] [thread: 13216] Bot: LoadTest_Bot [@LoadTest_PyBot]
+23.11.2022 20:20:57 WARNING [name: aiogram] [module: executor] [process: 8116] [thread: 13216] Updates were skipped successfully.
+23.11.2022 20:20:57 INFO [name: root] [module: sqlite_db] [process: 8116] [thread: 13216] Try to connect to sqlite3 data base
+23.11.2022 20:20:57 INFO [name: root] [module: sqlite_db] [process: 8116] [thread: 13216] Connect to data base <sqlite3.Connection object at 0x0000023037E7B840> done
+23.11.2022 20:20:57 INFO [name: aiogram.dispatcher.dispatcher] [module: dispatcher] [process: 8116] [thread: 13216] Start polling.
+23.11.2022 20:58:36 INFO [name: aiogram] [module: executor] [process: 4620] [thread: 11020] Bot: LoadTest_Bot [@LoadTest_PyBot]
+23.11.2022 20:58:37 WARNING [name: aiogram] [module: executor] [process: 4620] [thread: 11020] Updates were skipped successfully.
+23.11.2022 20:58:37 INFO [name: root] [module: sqlite_db] [process: 4620] [thread: 11020] Try to connect to sqlite3 data base
+23.11.2022 20:58:37 INFO [name: root] [module: sqlite_db] [process: 4620] [thread: 11020] Connect to data base <sqlite3.Connection object at 0x0000023C5DF7B840> done
+23.11.2022 20:58:37 INFO [name: aiogram.dispatcher.dispatcher] [module: dispatcher] [process: 4620] [thread: 11020] Start polling.
